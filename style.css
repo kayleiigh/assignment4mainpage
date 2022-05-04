@@ -8,13 +8,13 @@ body {
     font-size: 20px;
 }
 body {
-    background-color: #b9cabd;
+    background-color: #b2cdf0;
     font-family: sans-serif;
     margin: 0;
 }
 .content {
     font-family: sans-serif;
-    color: #3B5F44
+    color: #61142b
 }
 .topnav a {
     float: left;
@@ -28,11 +28,11 @@ body {
 .topnav {
     overflow: hidden;
     text-align: center;
-    background-color: #5e966c;
+    background-color: #61142b;
 }
 .main-pic {
     width: 20%;
     height: 20%;
     border-radius: 50%;
-    border: 2px solid #5e966c;
+    border: 2px solid #61142b;
 }
